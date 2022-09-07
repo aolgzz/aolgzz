@@ -8,7 +8,7 @@
 <h2>
   <div id="greetings" align="center">
     Hello! | ¡Hola! | Salut ! | Olá! |こんにちは！| 안녕하세요! | 你好！
-  </div>
+  </div><br></br>
   <div>About me:</div>
 </h2>
 
