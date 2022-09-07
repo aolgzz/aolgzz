@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Current programming languages:
+
+[![python](https://cdn3.emoji.gg/emojis/1887_python.png)](https://emoji.gg/emoji/1887_python)
+
 <!--
 **aolgzz/aolgzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
