@@ -63,7 +63,7 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title = "Go" alt = "Go" width = "40" height = "40"/>&nbsp;
 </div>
   
-### Languages and tools I am interested in learning:
+### Languages, and tools I am interested in learning:
 
 #### &nbsp;&nbsp;&nbsp;Programming languages:
 <div>
