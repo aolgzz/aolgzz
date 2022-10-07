@@ -1,4 +1,4 @@
-<div id = "header" align = "center">
+<div id = "header" align = "center" background-image:"https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img src = "https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width = "300" height = "150"/>
   <div id = "views">
   <img src = "https://komarev.com/ghpvc/?username=aolgzz&style=flat-square&color=blue" alt = ""/>
@@ -48,7 +48,7 @@
 <div>
   &nbsp;&nbsp;&nbsp;<img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "Visual Studio Code" alt = "Visual Studio Code" width = "40" height = "40"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title = "Jupyter Notebook" alt = "Jupyter Notebook" width = "40" height = "40"/>&nbsp;
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "GitHub" alt = "GitHub" width = "40" height = "40"/>&nbsp;
+  <img src= "https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png" title = "GitHub" alt = "GitHub" width = "40" height = "40"/>&nbsp;
 </div>
 
 ### Languages, and tools I am learning:
