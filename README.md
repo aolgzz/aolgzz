@@ -80,6 +80,7 @@
 </div>
 
 ### My Stats :
-  
+![Arturo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aolgzz&show_icons=true&theme=radical)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aolgzz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
   
