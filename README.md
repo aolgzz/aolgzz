@@ -48,6 +48,7 @@
 <div>
   &nbsp;&nbsp;&nbsp;<img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "Visual Studio Code" alt = "Visual Studio Code" width = "40" height = "40"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title = "Jupyter Notebook" alt = "Jupyter Notebook" width = "40" height = "40"/>&nbsp;
+  <img src = "https://avatars.githubusercontent.com/u/87464290?s=200&v=4" title = "Livebook" alt = "Livebook" width = "40" height = "40"/>&nbsp;
   <img src= "https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png" title = "GitHub" alt = "GitHub" width = "40" height = "40"/>&nbsp;
 </div>
 
