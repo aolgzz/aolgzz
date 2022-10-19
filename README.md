@@ -1,8 +1,8 @@
 <div id = "header" align = "center" background-image:"https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img src = "https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width = "300" height = "150"/>
-  <div id = "views">
+  <!--  <div id = "views">
   <img src = "https://komarev.com/ghpvc/?username=aolgzz&style=flat-square&color=blue" alt = ""/>
-  </div>
+  </div>-->
 </div>
 
 <h2>
